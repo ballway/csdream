@@ -5,3 +5,7 @@ aliases:
 ---
 
 # 參與開放原始碼專案
+
+## 贊助開放原始碼專案與開發者
+
+*   [GitHub Sponsor](https://github.com/sponsors)

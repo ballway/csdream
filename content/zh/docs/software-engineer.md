@@ -21,6 +21,7 @@ aliases:
 *   [Inside Job Board](http://jobs.inside.com.tw/)
 *   [Soft Job](https://www.ptt.cc/bbs/Soft_Job/index.html)
 *   [66K 工作網](http://www.66kjobs.tw/)
+*   [【密技】台灣軟體業業界現況詳解、軟體工程師指南](https://forum.gamer.com.tw/C.php?bsn=60076&snA=5444020)
 
 ## 美國
 

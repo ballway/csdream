@@ -33,6 +33,7 @@ aliases:
     *   [物理(一)](http://ocw.nctu.edu.tw/course_detail.php?bgid=1&amp;gid=3&amp;nid=382)
     *   [物理(二)](http://ocw.nctu.edu.tw/course_detail.php?bgid=1&amp;gid=3&amp;nid=383)
 *   計算機概論與程式設計
+    *   [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
     *   [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008)
     *   [Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm)
 *   線性代數
